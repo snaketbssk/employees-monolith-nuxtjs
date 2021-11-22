@@ -1,0 +1,86 @@
+[
+  {
+    "name": "departaments",
+    "path": "/departaments",
+    "component": "C:\\\\Users\\\\SnakeTBs\\\\source\\\\repos\\\\SnakeTBs\\\\employees-monolith-app\\\\pages\\\\departaments\\\\index.vue",
+    "chunkName": "pages/departaments/index",
+    "_name": "_cef3274e"
+  },
+  {
+    "name": "employees",
+    "path": "/employees",
+    "component": "C:\\\\Users\\\\SnakeTBs\\\\source\\\\repos\\\\SnakeTBs\\\\employees-monolith-app\\\\pages\\\\employees\\\\index.vue",
+    "chunkName": "pages/employees/index",
+    "_name": "_fd09b1a4"
+  },
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "C:\\\\Users\\\\SnakeTBs\\\\source\\\\repos\\\\SnakeTBs\\\\employees-monolith-app\\\\pages\\\\inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_8df26d2e"
+  },
+  {
+    "name": "skills",
+    "path": "/skills",
+    "component": "C:\\\\Users\\\\SnakeTBs\\\\source\\\\repos\\\\SnakeTBs\\\\employees-monolith-app\\\\pages\\\\skills\\\\index.vue",
+    "chunkName": "pages/skills/index",
+    "_name": "_317815c2"
+  },
+  {
+    "name": "user",
+    "path": "/user",
+    "component": "C:\\\\Users\\\\SnakeTBs\\\\source\\\\repos\\\\SnakeTBs\\\\employees-monolith-app\\\\pages\\\\user\\\\index.vue",
+    "chunkName": "pages/user/index",
+    "_name": "_692dabb6"
+  },
+  {
+    "name": "departament-create",
+    "path": "/departament/create",
+    "component": "C:\\\\Users\\\\SnakeTBs\\\\source\\\\repos\\\\SnakeTBs\\\\employees-monolith-app\\\\pages\\\\departament\\\\create.vue",
+    "chunkName": "pages/departament/create",
+    "_name": "_c22b8654"
+  },
+  {
+    "name": "employee-create",
+    "path": "/employee/create",
+    "component": "C:\\\\Users\\\\SnakeTBs\\\\source\\\\repos\\\\SnakeTBs\\\\employees-monolith-app\\\\pages\\\\employee\\\\create.vue",
+    "chunkName": "pages/employee/create",
+    "_name": "_f04210aa"
+  },
+  {
+    "name": "skill-create",
+    "path": "/skill/create",
+    "component": "C:\\\\Users\\\\SnakeTBs\\\\source\\\\repos\\\\SnakeTBs\\\\employees-monolith-app\\\\pages\\\\skill\\\\create.vue",
+    "chunkName": "pages/skill/create",
+    "_name": "_24b074c8"
+  },
+  {
+    "name": "departament-guid",
+    "path": "/departament/:guid?",
+    "component": "C:\\\\Users\\\\SnakeTBs\\\\source\\\\repos\\\\SnakeTBs\\\\employees-monolith-app\\\\pages\\\\departament\\\\_guid.vue",
+    "chunkName": "pages/departament/_guid",
+    "_name": "_66e6567e"
+  },
+  {
+    "name": "employee-guid",
+    "path": "/employee/:guid?",
+    "component": "C:\\\\Users\\\\SnakeTBs\\\\source\\\\repos\\\\SnakeTBs\\\\employees-monolith-app\\\\pages\\\\employee\\\\_guid.vue",
+    "chunkName": "pages/employee/_guid",
+    "_name": "_d09725ee"
+  },
+  {
+    "name": "skill-guid",
+    "path": "/skill/:guid?",
+    "component": "C:\\\\Users\\\\SnakeTBs\\\\source\\\\repos\\\\SnakeTBs\\\\employees-monolith-app\\\\pages\\\\skill\\\\_guid.vue",
+    "chunkName": "pages/skill/_guid",
+    "_name": "_24dcc610"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\SnakeTBs\\\\source\\\\repos\\\\SnakeTBs\\\\employees-monolith-app\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_3528d5be"
+  }
+]
